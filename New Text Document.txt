@@ -57,7 +57,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 tv4.setText("O, Java");
             }
             else if (cb3.isChecked()) {
-                tv4.setText("O, Matlab");
+                tv4.setText("O, Matlab"); //testtest
             }
         }
         else if (rb2.isChecked()){
